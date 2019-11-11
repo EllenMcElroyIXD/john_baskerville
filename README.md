@@ -6,3 +6,8 @@
 *4 November 19*
 
 # historyoftype
+- [version 1](https://ellenmcelroyixd.github.io/history_of_type/history1.html)
+*5 November 19*
+
+- [version 2](https://ellenmcelroyixd.github.io/history_of_type/history2.html)
+*5 November 19*
