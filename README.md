@@ -8,6 +8,9 @@
 - [version 3](https://ellenmcelroyixd.github.io/john_baskerville/baskerville3.html)
 *11 November 19*
 
+- [version 4](https://ellenmcelroyixd.github.io/john_baskerville/baskerville4.html)
+*18 November 19*
+
 # History of Type
 - [version 1](https://ellenmcelroyixd.github.io/john_baskerville/history1.html)
 *5 November 19*
