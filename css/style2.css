@@ -80,12 +80,12 @@ ul li {
 
 /*--------------------- STYLING LINKS -----------------*/
 a {
-    color: #8F0040;
+    color: #A57D95;
     text-decoration: none;
 }
 
 a:hover {
-    color: chocolate;
+    color: #BC8F8F;
     border-bottom: 1px dotted;
 }
 
