@@ -76,7 +76,7 @@ ul li {
     font-weight: bold;
     text-transform: uppercase;}
 
-.red {background: orangered}
+.red {background: rosybrown}
 
 /*--------------------- STYLING LINKS -----------------*/
 a {
@@ -96,7 +96,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #8F0040;
+    background-color: #A57D95;
     padding: .5em 0;
     font-size: 0.75em;
     box-shadow: 0 0 10px 0 black;
@@ -124,7 +124,7 @@ nav a:visited {
 
 nav a:hover {
     border-bottom: none;
-    color: chocolate;
+    color: rosybrown;
 
 }
 
@@ -135,7 +135,7 @@ nav a:hover {
 }
 
 .baskerville h2 {
-    color: coral
+    color: rosybrown;
 }
 
 
@@ -160,14 +160,14 @@ th {
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
-    background: rgb(120, 143, 4);
+    background: #A57D95;
 }
 
 th, td {
     padding: .6em }
 
 table, td   {
-    background: rgb(212, 222, 164);
+    background: #BC8F8F;
     border: 1px solid #fafafa
 }
 
