@@ -20,19 +20,6 @@ body {
 }
 
 
-/*-------ADDING FLEXBOX---------*/
-
-article {display: flex;}
-
-.main {flex:4;
-        padding-right: 1em}
-
-aside {flex; 4;
-        font-size: 0.75em;
-        font-style: italic;
-        border-left: 1px solid #c06;
-        padding-left: 1em }
-
 
 /*-------TYPOGRAPHY---------*/
 
